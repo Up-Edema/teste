@@ -6,15 +6,19 @@ interface Message {
 }
 
 const messages: Message[] = [
-  { text: "Oi, Matheus… aqui quem fala é a versão alternativa da Mariana. Aquela que fala o que a original não admite kkkkk.", delay: 0 },
-  { text: "Eu sei, eu sei… você vive dizendo que gosta do meu humor. Mas a verdade é que eu só rio fácil assim quando é você falando.", delay: 2500 },
-  { text: "E sim… eu também sei que fico soltando esse meu famoso ‘hmmmmmm kkkkk’ só pra você ficar me decifrando. É charme involuntário 😌.", delay: 5500 },
-  { text: "Falam que eu tenho um jeitinho misterioso… mas é só porque eu gosto de deixar você curioso. Funciona, né?", delay: 9000 },
-  { text: "Sobre o Gunga… eu amei essa ideia de a gente se perder lá. Eu falando que sei o caminho, você duvidando… e no fim nós dois perdidos rindo kkkkk. e eu ainda nao acredito que voce ainda fala sobre esse gunga kkkkk", delay: 12500 },
-  { text: "E olha… esse seu jeito com as palavras? Eu percebo, tá. Você tenta parecer casual, mas eu sinto que tem coisa ali.", delay: 16500 },
-  { text: "E quando você fala do meu sorriso então? Aí acabou. Eu fico igual idiota. Seu hiperfoco nele é criminoso, viu? 😳", delay: 20000 },
-  { text: "No fundo, eu sou isso: risada fácil, ironia automática, mistério calculado… E uma leve, bem leve, queda por você.", delay: 24000 },
-  { text: "eu fico assim 🥰", delay: 28000 },
+  { text: "Teu humor sincero, autêntico e deliciosamente duvidoso.", delay: 0 },
+  { text: "Os teus bordões e frases que já viraram ícones por aqui.", delay: 4000 },
+  { text: "“Gunga, vai ser minha guia, quero nem saber…”", delay: 8000 },
+  { text: "Cada versão tua — até a misteriosa :D", delay: 11500 },
+  { text: "Meu hiperfoco declarado nesse sorriso.", delay: 14500 },
+  { text: "O teu jeito de falar e de lidar com as pessoas, sempre tão natural.", delay: 17500 },
+  { text: "Tua energia, tua vibe… isso aí ninguém copia.", delay: 22000 },
+  { text: "E claro… a “boa e nova” entra nessa lista também.", delay: 25500 },
+  { text: "Agora deveriam vir flores — mas por enquanto vai só aquela flor.", delay: 29000 },
+  { text: "Pronto… já falei demais.", delay: 33000 },
+  { text: "Por fim, vou deixar uma frase pra marcar tua vida — e você que se vire pra traduzir com o momento certo:", delay: 35500 },
+  { text: "“You’re never too young to dream big.”", delay: 41000 },
+  { text: "E sempre lembra disso quando desacreditar de si mesma.", delay: 44000 },
 ];
 
 const FakeChat = () => {

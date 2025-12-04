@@ -10,7 +10,7 @@ const ChatSection = () => {
             mensagem interceptada
           </p>
           <h2 className="text-3xl md:text-4xl font-display text-foreground">
-            Pensamentos de <span className="italic text-primary">Mariana</span>
+            oque faz a <span className="italic text-primary">Mariana</span> ser a <span className="italic text-primary">Mariana</span>
           </h2>
         </div>
 
@@ -31,7 +31,6 @@ const ChatSection = () => {
             href="#"
             onClick={(e) => {
               e.preventDefault();
-              // Could link to WhatsApp or just be decorative
               alert("Agora é só marcar! 💕");
             }}
             className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-primary to-coral text-primary-foreground rounded-full font-body font-medium transition-all duration-300 hover:shadow-glow hover:scale-105"
