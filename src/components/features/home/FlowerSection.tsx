@@ -16,7 +16,7 @@ const FlowerSection = ({ onNext }: FlowerSectionProps) => {
         {/* Text */}
         <div className="space-y-4 animate-fade-in-up" style={{ animationDelay: "3s" }}>
           <p className="text-lg md:text-xl font-display text-foreground leading-relaxed">
-            Como ainda é cedo pra flores de verdade…
+            Espero que goste, o chocolate vou ficar devendo kkkk...
           </p>
           <p className="text-2xl md:text-3xl font-display italic text-primary">
             fiz essa aqui só pra você.
